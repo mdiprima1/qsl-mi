@@ -2,7 +2,7 @@
   "id": "ben-spy",
   "strategy_id": "BEN-SPY",
   "name": "SPY Buy and Hold Benchmark",
-  "vault_ref": "BM-SPY (benchmark class)",
+  "vault_ref": "BEN-SPY (vault benchmarks table; formerly BM-SPY)",
   "package_version": "1.3.0",
   "files": {
     "ben-spy.py": {
