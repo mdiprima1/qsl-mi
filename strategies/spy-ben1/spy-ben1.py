@@ -1,5 +1,5 @@
 # QSL Strategy Package SPY-BEN1 - SPY Buy and Hold Benchmark 1
-# Package version 1.1.1 - QS Lab MI Research Package
+# Package version 1.2.0 - QS Lab MI Research Package
 # Canonical source: this file is copied to students byte-for-byte. Do not edit locally.
 
 from AlgorithmImports import *

@@ -2,13 +2,13 @@
   "id": "spy-ben1",
   "name": "SPY Buy and Hold Benchmark 1",
   "vault_ref": "BM-SPY (benchmark class)",
-  "package_version": "1.1.1",
+  "package_version": "1.2.0",
   "files": {
     "spy-ben1.py": {
-      "sha256": "b23db7ea70cb029d7164193b4b22debb257112e3545d1c37341647f62e5b4e7c"
+      "sha256": "b480203c4d777acea3abcbd3f27d8f319282356e92a7e4643a8ad6a69b5ce33e"
     },
     "spy-ben1.pdf": {
-      "sha256": "70d675950a6d39acfab62276130c4e70a9483658f01841ea2988fec7746b88aa"
+      "sha256": "7d23b28815ac66802ed894134f419ae1fdf15801ec3874fe67badd52992e5889"
     }
   }
 }

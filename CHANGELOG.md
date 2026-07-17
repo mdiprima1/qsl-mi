@@ -20,3 +20,7 @@ Initial release.
 
 ## 1.1.1 — 2026-07-17
 - Clipboard delivery: the get-strategy step now ends with Claude piping the verified code file directly onto the student's clipboard (pbcopy/clip — byte-exact, never retyped). The student pastes straight into QuantConnect; no file opening required. PDF instructions updated accordingly. (A copy button inside the PDF was evaluated and rejected: PDF JavaScript does not run in macOS Preview or browser viewers.)
+
+## 1.2.0 — 2026-07-17
+- Delivery model final: the strategy code never lands on the student's computer. The course page has a "Copy strategy code" button that fetches the canonical file live from this repository, verifies its SHA-256 against manifest.json in the browser, and puts it on the clipboard. No files, no downloads, no Claude in the code path. Claude's role is explanation and results analysis only.
+- PDF description updated to teach the button flow; it is opened from the repository, not saved locally.
