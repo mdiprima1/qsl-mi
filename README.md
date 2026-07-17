@@ -1,6 +1,6 @@
 # QS Lab MI Research Package
 
-**Version 1.0.0** — the research lab for the QSL course *Modern Investing for Everyone*.
+**Version 1.0.1** — the research lab for the QSL course *Modern Investing for Everyone*.
 
 You do not write code. You paste prompts into Claude Code, and Claude does the work — creating strategies, running analysis, and building reports.
 

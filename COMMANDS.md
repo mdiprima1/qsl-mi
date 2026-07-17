@@ -1,6 +1,6 @@
 # QS Lab MI Research Package — Commands
 
-**Package version: 1.0.0**
+**Package version: 1.0.1**
 
 These are the commands installed into your Claude Code by the QS Lab MI Research Package. Type them in any Claude Code session.
 
