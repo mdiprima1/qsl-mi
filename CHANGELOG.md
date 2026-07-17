@@ -27,3 +27,9 @@ Initial release.
 
 ## 1.3.0 — 2026-07-17
 - Naming convention adopted: type prefix first — BEN- for benchmarks, S- for single strategies, P- for portfolios of strategies ("portfolio" chosen over "ensemble": the academically standard term for capital allocated across independent strategies, and plain language for students). SPY-BEN1 renamed to BEN-SPY; package folder is now strategies/ben-spy/. Full citation format: BEN-SPY · v1.3.0 · sha <fingerprint>.
+
+## 1.3.1 — 2026-07-17
+Housekeeping release — the repository now documents the current architecture completely.
+- README rewritten: the repository is a source of truth of fixed, checksummed strategy packages consumed by the QSL platform; delivery flow, catalog, layout, and integrity rules stated.
+- Added PACKAGE-SPEC.md (package format, manifest schema, naming convention, release process, delivery contract), STRATEGIES.md (the catalog: live / planned / retired), and CLAUDE.md (rules for AI agents: the bytes are the product; every file change is a release).
+- Removed the obsolete v1.0 delivery model: INSTALL.md, COMMANDS.md, and the deprecated /qsl-spy-ben1 skill. The hosted zip distribution is retired.
