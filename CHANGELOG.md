@@ -33,3 +33,6 @@ Housekeeping release — the repository now documents the current architecture c
 - README rewritten: the repository is a source of truth of fixed, checksummed strategy packages consumed by the QSL platform; delivery flow, catalog, layout, and integrity rules stated.
 - Added PACKAGE-SPEC.md (package format, manifest schema, naming convention, release process, delivery contract), STRATEGIES.md (the catalog: live / planned / retired), and CLAUDE.md (rules for AI agents: the bytes are the product; every file change is a release).
 - Removed the obsolete v1.0 delivery model: INSTALL.md, COMMANDS.md, and the deprecated /qsl-spy-ben1 skill. The hosted zip distribution is retired.
+
+## 1.3.2 — 2026-07-17
+- Added the MIT License. The free-course packages are open; the license maximizes trust and lets students use and adapt what they learn from.
