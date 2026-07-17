@@ -24,3 +24,6 @@ Initial release.
 ## 1.2.0 — 2026-07-17
 - Delivery model final: the strategy code never lands on the student's computer. The course page has a "Copy strategy code" button that fetches the canonical file live from this repository, verifies its SHA-256 against manifest.json in the browser, and puts it on the clipboard. No files, no downloads, no Claude in the code path. Claude's role is explanation and results analysis only.
 - PDF description updated to teach the button flow; it is opened from the repository, not saved locally.
+
+## 1.3.0 — 2026-07-17
+- Naming convention adopted: type prefix first — BEN- for benchmarks, S- for single strategies, P- for portfolios of strategies ("portfolio" chosen over "ensemble": the academically standard term for capital allocated across independent strategies, and plain language for students). SPY-BEN1 renamed to BEN-SPY; package folder is now strategies/ben-spy/. Full citation format: BEN-SPY · v1.3.0 · sha <fingerprint>.
