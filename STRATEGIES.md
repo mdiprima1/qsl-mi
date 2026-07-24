@@ -6,14 +6,14 @@
 
 | ID | Name | Type | Course unit | Package version | Code fingerprint |
 |---|---|---|---|---|---|
-| `BEN-SPY` | SPY Buy and Hold Benchmark | Benchmark | Modern Investing for Everyone · Unit 2 | 1.3.0 | `acaec7d77c09` |
+| `BEN-SPY` | SPY Buy and Hold Benchmark | Benchmark | Evidence-Based Investing for Everyone · Unit 2 | 1.3.0 | `acaec7d77c09` |
 
 ## Planned
 
 | ID | Name | Type | Course unit |
 |---|---|---|---|
-| `BEN-6040` | 60/40 Benchmark | Benchmark | Modern Investing for Everyone · Unit 5 |
-| `S-DM1` | Dual Momentum V1 | Single strategy | Modern Investing for Everyone · Unit 9 |
+| `BEN-6040` | 60/40 Benchmark | Benchmark | Evidence-Based Investing for Everyone · Unit 5 |
+| `S-DM1` | Dual Momentum V1 | Single strategy | Evidence-Based Investing for Everyone · Unit 9 |
 
 ## Retired
 

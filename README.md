@@ -1,6 +1,6 @@
 # QS Lab MI Research Package
 
-**Version 1.3.2** · The canonical strategy packages for the QSL course **Modern Investing for Everyone** (Quantitative Strategy Lab, quantstrategylab.com).
+**Version 1.3.2** · The canonical strategy packages for the QSL course **Evidence-Based Investing for Everyone** (Quantitative Strategy Lab, quantstrategylab.com).
 
 This repository is a **source of truth, not an app**. Every strategy taught in the course lives here as a fixed, versioned, checksummed package. The course platform delivers these packages to students byte-for-byte — the code is never generated, retyped, or altered anywhere between this repository and the student's clipboard.
 
